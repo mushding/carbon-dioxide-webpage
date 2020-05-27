@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3748939f52a1bf1b4a909eac2ae2e19",
+    "revision": "b69b049d81dbccb558695c4239866512",
     "url": "/carbon-dioxide-webpage/index.html"
   },
   {
-    "revision": "75546fbb016e839f2d43",
+    "revision": "4a76c93b08907f9018fb",
     "url": "/carbon-dioxide-webpage/static/css/main.7f76401f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/js/2.72027b36.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75546fbb016e839f2d43",
-    "url": "/carbon-dioxide-webpage/static/js/main.3ed977b0.chunk.js"
+    "revision": "4a76c93b08907f9018fb",
+    "url": "/carbon-dioxide-webpage/static/js/main.f1468819.chunk.js"
   },
   {
     "revision": "014ad9df6fc4b9a14b9f",
