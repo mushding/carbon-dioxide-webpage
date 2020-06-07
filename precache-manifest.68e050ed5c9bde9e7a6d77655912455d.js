@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab686edd8f2b656fc22c00dafc88f32b",
+    "revision": "899b56da70501b01d32538f1e1cff866",
     "url": "/carbon-dioxide-webpage/index.html"
   },
   {
-    "revision": "7b5cd50bb96bb15f9a6a",
+    "revision": "9b3cb50e006f1dab15e2",
     "url": "/carbon-dioxide-webpage/static/css/main.4ec06692.chunk.css"
   },
   {
-    "revision": "4b8fd9889c41c13c879d",
-    "url": "/carbon-dioxide-webpage/static/js/2.d7395674.chunk.js"
+    "revision": "c2b9771628bd328e52ab",
+    "url": "/carbon-dioxide-webpage/static/js/2.40d67c3f.chunk.js"
   },
   {
     "revision": "ffeb83e48480a4169f7064e81d5a7171",
-    "url": "/carbon-dioxide-webpage/static/js/2.d7395674.chunk.js.LICENSE.txt"
+    "url": "/carbon-dioxide-webpage/static/js/2.40d67c3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b5cd50bb96bb15f9a6a",
-    "url": "/carbon-dioxide-webpage/static/js/main.5f424ba7.chunk.js"
+    "revision": "9b3cb50e006f1dab15e2",
+    "url": "/carbon-dioxide-webpage/static/js/main.609d5674.chunk.js"
   },
   {
     "revision": "014ad9df6fc4b9a14b9f",
@@ -40,16 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/media/brazil.b5357489.png"
   },
   {
-    "revision": "73fe96b422fb09f151d841d056816647",
-    "url": "/carbon-dioxide-webpage/static/media/button.73fe96b4.png"
+    "revision": "fec7a565be1425519f37bbe856cd0bd7",
+    "url": "/carbon-dioxide-webpage/static/media/button.fec7a565.png"
   },
   {
-    "revision": "d660b96a7c8afebdfd450c4e294061a7",
-    "url": "/carbon-dioxide-webpage/static/media/button_over.d660b96a.png"
+    "revision": "6d4bfa0f9f570b4d0764799d8e391d74",
+    "url": "/carbon-dioxide-webpage/static/media/button_over.6d4bfa0f.png"
   },
   {
-    "revision": "a56ab3721042a2ab65e982f377d1af60",
-    "url": "/carbon-dioxide-webpage/static/media/button_press.a56ab372.png"
+    "revision": "65072ddc047b27ed0ffa34e23c324380",
+    "url": "/carbon-dioxide-webpage/static/media/button_press.65072ddc.png"
   },
   {
     "revision": "336524bf5cbb3043d58c8fc6fac334df",
