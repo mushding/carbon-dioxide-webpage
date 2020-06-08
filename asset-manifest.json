@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/carbon-dioxide-webpage/static/css/main.4ec06692.chunk.css",
-    "main.js": "/carbon-dioxide-webpage/static/js/main.f9d27526.chunk.js",
-    "main.js.map": "/carbon-dioxide-webpage/static/js/main.f9d27526.chunk.js.map",
+    "main.js": "/carbon-dioxide-webpage/static/js/main.27b5f58f.chunk.js",
+    "main.js.map": "/carbon-dioxide-webpage/static/js/main.27b5f58f.chunk.js.map",
     "runtime-main.js": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js",
     "runtime-main.js.map": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js.map",
-    "static/js/2.40d67c3f.chunk.js": "/carbon-dioxide-webpage/static/js/2.40d67c3f.chunk.js",
-    "static/js/2.40d67c3f.chunk.js.map": "/carbon-dioxide-webpage/static/js/2.40d67c3f.chunk.js.map",
+    "static/js/2.b751aadd.chunk.js": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js",
+    "static/js/2.b751aadd.chunk.js.map": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.map",
     "index.html": "/carbon-dioxide-webpage/index.html",
-    "precache-manifest.61711de94cbdae59581b582505afb197.js": "/carbon-dioxide-webpage/precache-manifest.61711de94cbdae59581b582505afb197.js",
+    "precache-manifest.36f4b56170f7c9c4f4a962b465c9f1da.js": "/carbon-dioxide-webpage/precache-manifest.36f4b56170f7c9c4f4a962b465c9f1da.js",
     "service-worker.js": "/carbon-dioxide-webpage/service-worker.js",
     "static/css/main.4ec06692.chunk.css.map": "/carbon-dioxide-webpage/static/css/main.4ec06692.chunk.css.map",
-    "static/js/2.40d67c3f.chunk.js.LICENSE.txt": "/carbon-dioxide-webpage/static/js/2.40d67c3f.chunk.js.LICENSE.txt",
+    "static/js/2.b751aadd.chunk.js.LICENSE.txt": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.LICENSE.txt",
     "static/media/america.png": "/carbon-dioxide-webpage/static/media/america.6e225953.png",
     "static/media/australia.png": "/carbon-dioxide-webpage/static/media/australia.53ee6e3e.png",
     "static/media/styles.css": "/carbon-dioxide-webpage/static/media/jf-openhuninn-1.1.e9ac35c6.ttf",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa3e38b8.js",
-    "static/js/2.40d67c3f.chunk.js",
+    "static/js/2.b751aadd.chunk.js",
     "static/css/main.4ec06692.chunk.css",
-    "static/js/main.f9d27526.chunk.js"
+    "static/js/main.27b5f58f.chunk.js"
   ]
 }
