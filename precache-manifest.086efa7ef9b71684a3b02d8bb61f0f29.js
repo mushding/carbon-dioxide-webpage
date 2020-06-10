@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9f4960f611bacc9e95ba6bddb77bbe7",
+    "revision": "3efb83093e9157f3e387f3ca0756f0fd",
     "url": "/carbon-dioxide-webpage/index.html"
   },
   {
-    "revision": "5c469ccc958cbfd5473d",
-    "url": "/carbon-dioxide-webpage/static/css/main.4ec06692.chunk.css"
+    "revision": "27d6a028baa26a833d50",
+    "url": "/carbon-dioxide-webpage/static/css/main.e795e8c2.chunk.css"
   },
   {
     "revision": "a4c1a6f66bd24d8a5cdf",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c469ccc958cbfd5473d",
-    "url": "/carbon-dioxide-webpage/static/js/main.3d8b0047.chunk.js"
+    "revision": "27d6a028baa26a833d50",
+    "url": "/carbon-dioxide-webpage/static/js/main.0744c478.chunk.js"
   },
   {
     "revision": "014ad9df6fc4b9a14b9f",
@@ -84,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/media/russia.2f3a5139.png"
   },
   {
-    "revision": "b161b1b9e23e4b3092a99e09ecd8ae47",
-    "url": "/carbon-dioxide-webpage/static/media/taiwan.b161b1b9.png"
+    "revision": "436c27d4b0996d0d5a2890096cd70af2",
+    "url": "/carbon-dioxide-webpage/static/media/taiwan.436c27d4.png"
   }
 ]);
