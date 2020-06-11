@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/carbon-dioxide-webpage/static/css/main.e795e8c2.chunk.css",
-    "main.js": "/carbon-dioxide-webpage/static/js/main.0744c478.chunk.js",
-    "main.js.map": "/carbon-dioxide-webpage/static/js/main.0744c478.chunk.js.map",
+    "main.css": "/carbon-dioxide-webpage/static/css/main.cc5a1e6e.chunk.css",
+    "main.js": "/carbon-dioxide-webpage/static/js/main.e691a9e9.chunk.js",
+    "main.js.map": "/carbon-dioxide-webpage/static/js/main.e691a9e9.chunk.js.map",
     "runtime-main.js": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js",
     "runtime-main.js.map": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js.map",
     "static/js/2.b751aadd.chunk.js": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js",
     "static/js/2.b751aadd.chunk.js.map": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.map",
     "index.html": "/carbon-dioxide-webpage/index.html",
-    "precache-manifest.086efa7ef9b71684a3b02d8bb61f0f29.js": "/carbon-dioxide-webpage/precache-manifest.086efa7ef9b71684a3b02d8bb61f0f29.js",
+    "precache-manifest.0f05c19cee5dfd4965f402cf9517c4c1.js": "/carbon-dioxide-webpage/precache-manifest.0f05c19cee5dfd4965f402cf9517c4c1.js",
     "service-worker.js": "/carbon-dioxide-webpage/service-worker.js",
-    "static/css/main.e795e8c2.chunk.css.map": "/carbon-dioxide-webpage/static/css/main.e795e8c2.chunk.css.map",
+    "static/css/main.cc5a1e6e.chunk.css.map": "/carbon-dioxide-webpage/static/css/main.cc5a1e6e.chunk.css.map",
     "static/js/2.b751aadd.chunk.js.LICENSE.txt": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.LICENSE.txt",
     "static/media/america.png": "/carbon-dioxide-webpage/static/media/america.6e225953.png",
     "static/media/australia.png": "/carbon-dioxide-webpage/static/media/australia.53ee6e3e.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.aa3e38b8.js",
     "static/js/2.b751aadd.chunk.js",
-    "static/css/main.e795e8c2.chunk.css",
-    "static/js/main.0744c478.chunk.js"
+    "static/css/main.cc5a1e6e.chunk.css",
+    "static/js/main.e691a9e9.chunk.js"
   ]
 }
