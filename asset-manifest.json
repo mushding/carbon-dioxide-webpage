@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/carbon-dioxide-webpage/static/css/main.25cccf3d.chunk.css",
-    "main.js": "/carbon-dioxide-webpage/static/js/main.fbf43dcc.chunk.js",
-    "main.js.map": "/carbon-dioxide-webpage/static/js/main.fbf43dcc.chunk.js.map",
+    "main.js": "/carbon-dioxide-webpage/static/js/main.d693a615.chunk.js",
+    "main.js.map": "/carbon-dioxide-webpage/static/js/main.d693a615.chunk.js.map",
     "runtime-main.js": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js",
     "runtime-main.js.map": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js.map",
     "static/js/2.b751aadd.chunk.js": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js",
     "static/js/2.b751aadd.chunk.js.map": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.map",
     "index.html": "/carbon-dioxide-webpage/index.html",
-    "precache-manifest.94442c01f14423d3182c98fdace87e7c.js": "/carbon-dioxide-webpage/precache-manifest.94442c01f14423d3182c98fdace87e7c.js",
+    "precache-manifest.8a3a4bfd49749ce52e559bf799f80925.js": "/carbon-dioxide-webpage/precache-manifest.8a3a4bfd49749ce52e559bf799f80925.js",
     "service-worker.js": "/carbon-dioxide-webpage/service-worker.js",
     "static/css/main.25cccf3d.chunk.css.map": "/carbon-dioxide-webpage/static/css/main.25cccf3d.chunk.css.map",
     "static/js/2.b751aadd.chunk.js.LICENSE.txt": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.LICENSE.txt",
@@ -24,7 +24,7 @@
     "static/media/iceland.png": "/carbon-dioxide-webpage/static/media/iceland.90c5cde9.png",
     "static/media/india.png": "/carbon-dioxide-webpage/static/media/india.97306647.png",
     "static/media/kenya.png": "/carbon-dioxide-webpage/static/media/kenya.bb3ffee2.png",
-    "static/media/map.jpg": "/carbon-dioxide-webpage/static/media/map.61c53d55.jpg",
+    "static/media/map.png": "/carbon-dioxide-webpage/static/media/map.6340e92d.png",
     "static/media/russia.png": "/carbon-dioxide-webpage/static/media/russia.2f3a5139.png",
     "static/media/taiwan.png": "/carbon-dioxide-webpage/static/media/taiwan.436c27d4.png"
   },
@@ -32,6 +32,6 @@
     "static/js/runtime-main.aa3e38b8.js",
     "static/js/2.b751aadd.chunk.js",
     "static/css/main.25cccf3d.chunk.css",
-    "static/js/main.fbf43dcc.chunk.js"
+    "static/js/main.d693a615.chunk.js"
   ]
 }
