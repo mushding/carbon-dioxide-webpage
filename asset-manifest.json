@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/carbon-dioxide-webpage/static/css/main.25cccf3d.chunk.css",
-    "main.js": "/carbon-dioxide-webpage/static/js/main.d693a615.chunk.js",
-    "main.js.map": "/carbon-dioxide-webpage/static/js/main.d693a615.chunk.js.map",
+    "main.css": "/carbon-dioxide-webpage/static/css/main.9d5a41ec.chunk.css",
+    "main.js": "/carbon-dioxide-webpage/static/js/main.8f26d746.chunk.js",
+    "main.js.map": "/carbon-dioxide-webpage/static/js/main.8f26d746.chunk.js.map",
     "runtime-main.js": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js",
     "runtime-main.js.map": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js.map",
-    "static/js/2.b751aadd.chunk.js": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js",
-    "static/js/2.b751aadd.chunk.js.map": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.map",
+    "static/js/2.7a0f3cab.chunk.js": "/carbon-dioxide-webpage/static/js/2.7a0f3cab.chunk.js",
+    "static/js/2.7a0f3cab.chunk.js.map": "/carbon-dioxide-webpage/static/js/2.7a0f3cab.chunk.js.map",
     "index.html": "/carbon-dioxide-webpage/index.html",
-    "precache-manifest.8a3a4bfd49749ce52e559bf799f80925.js": "/carbon-dioxide-webpage/precache-manifest.8a3a4bfd49749ce52e559bf799f80925.js",
+    "precache-manifest.3eab0df09cc53b98fde32c33986c1ba8.js": "/carbon-dioxide-webpage/precache-manifest.3eab0df09cc53b98fde32c33986c1ba8.js",
     "service-worker.js": "/carbon-dioxide-webpage/service-worker.js",
-    "static/css/main.25cccf3d.chunk.css.map": "/carbon-dioxide-webpage/static/css/main.25cccf3d.chunk.css.map",
-    "static/js/2.b751aadd.chunk.js.LICENSE.txt": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.LICENSE.txt",
+    "static/css/main.9d5a41ec.chunk.css.map": "/carbon-dioxide-webpage/static/css/main.9d5a41ec.chunk.css.map",
+    "static/js/2.7a0f3cab.chunk.js.LICENSE.txt": "/carbon-dioxide-webpage/static/js/2.7a0f3cab.chunk.js.LICENSE.txt",
     "static/media/america.png": "/carbon-dioxide-webpage/static/media/america.6e225953.png",
     "static/media/australia.png": "/carbon-dioxide-webpage/static/media/australia.53ee6e3e.png",
     "static/media/styles.css": "/carbon-dioxide-webpage/static/media/jf-openhuninn-1.1.e9ac35c6.ttf",
@@ -20,6 +20,7 @@
     "static/media/button_over.png": "/carbon-dioxide-webpage/static/media/button_over.6d4bfa0f.png",
     "static/media/button_press.png": "/carbon-dioxide-webpage/static/media/button_press.65072ddc.png",
     "static/media/center_asia.png": "/carbon-dioxide-webpage/static/media/center_asia.336524bf.png",
+    "static/media/co2_logo.png": "/carbon-dioxide-webpage/static/media/co2_logo.b713850c.png",
     "static/media/europe.png": "/carbon-dioxide-webpage/static/media/europe.9ffaf8e4.png",
     "static/media/iceland.png": "/carbon-dioxide-webpage/static/media/iceland.90c5cde9.png",
     "static/media/india.png": "/carbon-dioxide-webpage/static/media/india.97306647.png",
@@ -30,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa3e38b8.js",
-    "static/js/2.b751aadd.chunk.js",
-    "static/css/main.25cccf3d.chunk.css",
-    "static/js/main.d693a615.chunk.js"
+    "static/js/2.7a0f3cab.chunk.js",
+    "static/css/main.9d5a41ec.chunk.css",
+    "static/js/main.8f26d746.chunk.js"
   ]
 }

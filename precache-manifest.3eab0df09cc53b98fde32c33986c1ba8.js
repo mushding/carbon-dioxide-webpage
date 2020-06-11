@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05248a225ff2f904e75b70922650b41f",
+    "revision": "9e18e0d47cee0d5458cc2722d058ca84",
     "url": "/carbon-dioxide-webpage/index.html"
   },
   {
-    "revision": "fe70b30f0f8c8b5dc7bf",
-    "url": "/carbon-dioxide-webpage/static/css/main.25cccf3d.chunk.css"
+    "revision": "e7a28e1484a08d34b560",
+    "url": "/carbon-dioxide-webpage/static/css/main.9d5a41ec.chunk.css"
   },
   {
-    "revision": "a4c1a6f66bd24d8a5cdf",
-    "url": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js"
+    "revision": "0f10d8ce1aa018fb9cdd",
+    "url": "/carbon-dioxide-webpage/static/js/2.7a0f3cab.chunk.js"
   },
   {
     "revision": "ffeb83e48480a4169f7064e81d5a7171",
-    "url": "/carbon-dioxide-webpage/static/js/2.b751aadd.chunk.js.LICENSE.txt"
+    "url": "/carbon-dioxide-webpage/static/js/2.7a0f3cab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe70b30f0f8c8b5dc7bf",
-    "url": "/carbon-dioxide-webpage/static/js/main.d693a615.chunk.js"
+    "revision": "e7a28e1484a08d34b560",
+    "url": "/carbon-dioxide-webpage/static/js/main.8f26d746.chunk.js"
   },
   {
     "revision": "014ad9df6fc4b9a14b9f",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "336524bf5cbb3043d58c8fc6fac334df",
     "url": "/carbon-dioxide-webpage/static/media/center_asia.336524bf.png"
+  },
+  {
+    "revision": "b713850c119cb7f5b96f382db86e1fbb",
+    "url": "/carbon-dioxide-webpage/static/media/co2_logo.b713850c.png"
   },
   {
     "revision": "9ffaf8e437d7f5d3a23632d05e2529e1",
