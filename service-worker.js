@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/carbon-dioxide-webpage/precache-manifest.0f05c19cee5dfd4965f402cf9517c4c1.js"
+  "/carbon-dioxide-webpage/precache-manifest.c330dd4742615e68b3f4df8f6442c715.js"
 );
 
 self.addEventListener('message', (event) => {
