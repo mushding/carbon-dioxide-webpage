@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/carbon-dioxide-webpage/static/css/main.5840c820.chunk.css",
+    "main.css": "/carbon-dioxide-webpage/static/css/main.b2e57410.chunk.css",
     "main.js": "/carbon-dioxide-webpage/static/js/main.3279e847.chunk.js",
     "main.js.map": "/carbon-dioxide-webpage/static/js/main.3279e847.chunk.js.map",
     "runtime-main.js": "/carbon-dioxide-webpage/static/js/runtime-main.aa3e38b8.js",
@@ -8,9 +8,9 @@
     "static/js/2.61d780b6.chunk.js": "/carbon-dioxide-webpage/static/js/2.61d780b6.chunk.js",
     "static/js/2.61d780b6.chunk.js.map": "/carbon-dioxide-webpage/static/js/2.61d780b6.chunk.js.map",
     "index.html": "/carbon-dioxide-webpage/index.html",
-    "precache-manifest.6698785b063a43fa7d3fb73088e629b1.js": "/carbon-dioxide-webpage/precache-manifest.6698785b063a43fa7d3fb73088e629b1.js",
+    "precache-manifest.822884acba56e2fcc76ac4409d354561.js": "/carbon-dioxide-webpage/precache-manifest.822884acba56e2fcc76ac4409d354561.js",
     "service-worker.js": "/carbon-dioxide-webpage/service-worker.js",
-    "static/css/main.5840c820.chunk.css.map": "/carbon-dioxide-webpage/static/css/main.5840c820.chunk.css.map",
+    "static/css/main.b2e57410.chunk.css.map": "/carbon-dioxide-webpage/static/css/main.b2e57410.chunk.css.map",
     "static/js/2.61d780b6.chunk.js.LICENSE.txt": "/carbon-dioxide-webpage/static/js/2.61d780b6.chunk.js.LICENSE.txt",
     "static/media/america.png": "/carbon-dioxide-webpage/static/media/america.6e225953.png",
     "static/media/aquarium_sand.png": "/carbon-dioxide-webpage/static/media/aquarium_sand.e7534b47.png",
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.aa3e38b8.js",
     "static/js/2.61d780b6.chunk.js",
-    "static/css/main.5840c820.chunk.css",
+    "static/css/main.b2e57410.chunk.css",
     "static/js/main.3279e847.chunk.js"
   ]
 }
