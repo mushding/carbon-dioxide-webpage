@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "749cb361cdbe81113cec33c43865d767",
+    "revision": "aa0c0218e12c06a9ffd0b6053f347d46",
     "url": "/carbon-dioxide-webpage/index.html"
   },
   {
-    "revision": "fac2c7e403df8fb5fc75",
-    "url": "/carbon-dioxide-webpage/static/css/main.aa8fa0f5.chunk.css"
+    "revision": "5df2381a47aa5f4b3f56",
+    "url": "/carbon-dioxide-webpage/static/css/main.6ae197e4.chunk.css"
   },
   {
     "revision": "324325cf67120ae128f0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/js/2.ab1cf0fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fac2c7e403df8fb5fc75",
-    "url": "/carbon-dioxide-webpage/static/js/main.28f97470.chunk.js"
+    "revision": "5df2381a47aa5f4b3f56",
+    "url": "/carbon-dioxide-webpage/static/js/main.ac5dd56a.chunk.js"
   },
   {
     "revision": "014ad9df6fc4b9a14b9f",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/media/america.6e225953.png"
   },
   {
-    "revision": "e7534b4703921a027a9ba536592d453f",
-    "url": "/carbon-dioxide-webpage/static/media/aquarium_sand.e7534b47.png"
+    "revision": "a8a1907c90acbfb5ae47b647ddd1a003",
+    "url": "/carbon-dioxide-webpage/static/media/aquarium_sand.a8a1907c.png"
   },
   {
     "revision": "53ee6e3eaac17e78ed6a6edfb496c5ac",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/media/button_press.65072ddc.png"
   },
   {
-    "revision": "6fb631a237e509266ae0c0e26cea6e9d",
-    "url": "/carbon-dioxide-webpage/static/media/can.6fb631a2.png"
+    "revision": "e4b61332de9af3d2ae1e1d30ad924cf8",
+    "url": "/carbon-dioxide-webpage/static/media/can.e4b61332.png"
   },
   {
     "revision": "336524bf5cbb3043d58c8fc6fac334df",
     "url": "/carbon-dioxide-webpage/static/media/center_asia.336524bf.png"
   },
   {
-    "revision": "1a72b00d4080d606fab1a5c8b666a95c",
-    "url": "/carbon-dioxide-webpage/static/media/chips.1a72b00d.png"
+    "revision": "df6f0cfec3dfd89a33ae90dc53425d92",
+    "url": "/carbon-dioxide-webpage/static/media/chips.df6f0cfe.png"
   },
   {
     "revision": "b713850c119cb7f5b96f382db86e1fbb",
@@ -80,24 +80,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/media/counter.480fe358.png"
   },
   {
-    "revision": "f74206578104554d2064fadcd8f0fd76",
-    "url": "/carbon-dioxide-webpage/static/media/devils_ivy.f7420657.png"
+    "revision": "b3e68503a69e842d5f4f2f67467a46f2",
+    "url": "/carbon-dioxide-webpage/static/media/devils_ivy.b3e68503.png"
   },
   {
     "revision": "9ffaf8e437d7f5d3a23632d05e2529e1",
     "url": "/carbon-dioxide-webpage/static/media/europe.9ffaf8e4.png"
   },
   {
-    "revision": "5d4178d68c395e88dcd042cec0a4693b",
-    "url": "/carbon-dioxide-webpage/static/media/extinguishers.5d4178d6.png"
+    "revision": "3e291686fd62a5efe1169ad375243082",
+    "url": "/carbon-dioxide-webpage/static/media/extinguishers.3e291686.png"
   },
   {
     "revision": "bdc414adbcfddbac901c6061c8f1bb04",
     "url": "/carbon-dioxide-webpage/static/media/fern.bdc414ad.png"
   },
   {
-    "revision": "94124dea4479548e6f2390a7cb229477",
-    "url": "/carbon-dioxide-webpage/static/media/hydrogen_peroxide.94124dea.png"
+    "revision": "9c00e3340e9151be0df90ae9545a3ce6",
+    "url": "/carbon-dioxide-webpage/static/media/hydrogen_peroxide.9c00e334.png"
   },
   {
     "revision": "90c5cde9d1ce26093305ebef121f6710",
@@ -128,12 +128,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/carbon-dioxide-webpage/static/media/russia.2f3a5139.png"
   },
   {
-    "revision": "a1dc056cfe874e941ecfa490aabb54dd",
-    "url": "/carbon-dioxide-webpage/static/media/soda.a1dc056c.png"
+    "revision": "e348b254cb8abd6bb51468e6a688b8d0",
+    "url": "/carbon-dioxide-webpage/static/media/soda.e348b254.png"
   },
   {
-    "revision": "09998beba2cdb3a553fa16282e9e5636",
-    "url": "/carbon-dioxide-webpage/static/media/sport_drink.09998beb.png"
+    "revision": "8129c3b4f685bf4a0a0d65520506928e",
+    "url": "/carbon-dioxide-webpage/static/media/sport_drink.8129c3b4.png"
   },
   {
     "revision": "436c27d4b0996d0d5a2890096cd70af2",
