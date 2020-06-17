@@ -1,0 +1,47 @@
+.mycanvas {
+    background: hsla(265, 4%, 13%, 0.54);
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    height: 60%;
+    border-radius: 25px
+}
+
+#startPage {
+    background-image: url('../../images/homepage.png') !important;
+    background-size: 100% 100%;
+    /* background: hsla(265, 4%, 13%, 0.54); */
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    height: 65%;
+    border-radius: 25px
+}
+
+#title {
+    color: black;
+    /* font-size: 2rem; */
+    margin-top: 5%;
+}
+
+#startButton {
+    color: black !important;
+	box-shadow: inset 0 0 0 1px #000000 !important;
+    /* font-size: 2rem; */
+}
+
+.pageButton {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    bottom: 8%;
+}

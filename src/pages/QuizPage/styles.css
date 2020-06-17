@@ -1,0 +1,55 @@
+.text {
+    margin: 6%;
+}
+
+.rule {
+    border-radius: 10px;
+	border: 0;
+	box-shadow: inset 0 0 0 1px #ffffff;
+    padding: 2%;
+}
+
+.logoContainer {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 70%;
+    transform-origin: left top;
+    animation: logoContainerMove 2s 2s ease forwards;
+}
+
+.logoContainer img {
+    /* position: absolute; */
+    max-width: 100%;
+    height: auto;
+}
+
+@keyframes logoContainerMove {
+    to {
+        left: 20%;
+        top: 10%;
+        transform: scale(0.3);
+    }
+}
+
+/* body {
+    width: 100%;
+    height: auto;
+    background-image: url("../../images/quizImages/quiz_background.png") !important;
+    background-color: #f3c693;
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: cover;
+} */
+
+.startButton {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    bottom: 10%;
+}
